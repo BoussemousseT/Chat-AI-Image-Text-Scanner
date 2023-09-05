@@ -10,8 +10,6 @@ Ce projet a été réalisé par moi-même en utilisant une source ouverte de sca
 ![Chat AI -AI Image Text Scanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqoMngaGwlASeunnZDyjoVMk-pargV7riF4w9YUDyFbp0tPDyGdV2VThJVDzk9_Z4ZlhvPVkFdesEyMn7klg01nQRiRVtzwbF-y3HxNMT0fHyDNgeQ2f39laEUUwb8dnqbsx9dAvo_UIn9XR-2BYjTJpA6hDFxs8j9XNZlEDYavb3R8TlHfylSBAhWVu-/s320/sc4.png "Chat AI -AI Image Text Scanner")
 ![Chat AI -AI Image Text Scanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQdN9uCdims_z6yagKU5eunhQvMYbj346w1b5XDDnSkaTfvInhLDsvgXWuy9pBRq2YGKj9fl7yLFeVQk6a_32vdVstcE7CVVCdJQUbfHuRQkyWSWxtN_yPJDUn15WgfoaDq67czsVlHgD8rgiJ4r-NMRIDkptHP5WRaGkpsJ7n2IRQopp8BqpHfDD4gMYl/s320/sc5.png "Chat AI -AI Image Text Scanner")
 
-
-
 ## Lien pour télécharger l'application
 
 > https://play.google.com/store/apps/details?id=com.chatbotai.textscannerbotai
