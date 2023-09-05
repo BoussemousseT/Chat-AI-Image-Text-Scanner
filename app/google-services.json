@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457752643539",
+    "project_id": "chat-ai-2f277",
+    "storage_bucket": "chat-ai-2f277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457752643539:android:ce64c9b05d294f3b87d126",
+        "android_client_info": {
+          "package_name": "com.chatbotai.textscannerbotai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457752643539-ofkm2gh2u6nstr1g5lm0l6ctb62brqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWI1ed05mb7scubpjc2tw-aaT5qX2x8-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457752643539-ofkm2gh2u6nstr1g5lm0l6ctb62brqtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
